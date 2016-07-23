@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to ASP.NET Core
 
 We've made some big updates in this release, so it’s **important** that you spend a few minutes to learn what’s new.
@@ -37,3 +38,7 @@ You've created a new ASP.NET Core project. [Learn what's new](https://go.microso
 *   [Publish to Microsoft Azure Web Apps](https://go.microsoft.com/fwlink/?LinkID=398609)
 
 We would love to hear your [feedback](https://go.microsoft.com/fwlink/?LinkId=518015)
+=======
+# coreapi
+Developing and deploying ASP.NET Core apps tutorial series
+>>>>>>> 4be1ea06cad1553e4b6ff932ed309aa10a324596
